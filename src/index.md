@@ -1,26 +1,26 @@
 ---
-title: Template homepage
+title: Zofia Milczarek
 author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
+shortbio: PhD student in Dialogue Systems
+description-meta: PhD student in Dialogue Systems
 og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
+location: ISIR
+email: milczarek@isir.upmc.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
+pronouns: She/Her
 og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+# orcid: 0000-0000-0000-0000
+# dblp: https://dblp.org/
+# scholar: https://scholar.google.com/
+# hal: https://hal.science/
+# mastodon: https://lipn.info
+github: zofiamilczarek
+# gitlab: gitlab
+# bitbucket: bitbucket.com
+# bluesky: https://bsky.app/
+linkedin: https://www.linkedin.com/in/zmilczarek/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
@@ -37,9 +37,9 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 > Just follow the README of the
 > [Github repository](https://github.com/basicpage/basicpage.github.io).
 
-# Publications
+<!-- # Publications -->
 
-## Conference papers
+<!-- ## Conference papers
 
 ``` json {.paper}
 "title": "Towards automatic academic pages 2",
@@ -61,9 +61,9 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
   { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
   { "text": "Formalisation", "type": "code", "src": "foo.v" }
 ]
-```
+``` -->
 
-## Journal papers
+<!-- ## Journal papers
 
 ``` yaml {.paper}
 title: Yet another yaml parser 3
@@ -161,20 +161,19 @@ papers:
   "venue": "Don't remember…",
   "year": "???"
 }
-```
+``` -->
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- Master's in Natural Language Processing from Universite Paris Cite.
+- Bachelor in Computer Science from University of Luxembourg.
 
-# Teaching
+<!-- # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
+- I am teaching the TD sessions on the 👽 science course. -->
 
-# Community service
+<!-- # Community service
 
 - 32 reviews for Journal of Awesomeness.
 - 1 review for a cool conference.
-- PC member of the journal of my school.
+- PC member of the journal of my school. -->
