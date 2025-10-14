@@ -1,9 +1,9 @@
 ---
-title: Zofia Milczarek
-author: Templato Urnehm
+title: Zofia's Homepage
+author: Zofia Milczarek
 shortbio: PhD student in Dialogue Systems
 description-meta: PhD student in Dialogue Systems
-og-url: https://basicpage.github.io
+og-url: https://zofiamilczarek.github.io/
 location: ISIR
 email: milczarek@isir.upmc.fr
 picture: img/profile.png
@@ -27,15 +27,22 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a PhD student at ISIR, Sorbonne's Robotics and Intelligent Systems lab, under the supervision of Catherine Pelachaud and Florian Pecune. To learn more about the lab, check out the website here : https://www.isir.upmc.fr
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
+My PhD thesis focuses on improving dialogue systems for *Long-term conversarions* (i.e. conversations happening over multiple sessions with one user) applied to the topic of *Motivational Interviews*.
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+Some keywords relevant to my research:
+- Large Language Models
+- Reinforcement Learning
+- Motivational Interview
+- Social AI
+- Conversational Agents
+
+# Some past work
+
+For my Master's Thesis, I worked with Prof Justine Cassell at INRIA Paris. During my research, I focused on 
+
+<!-- My work focuses on bringing the insights from the vast body of knowledge on interpersonal communication into the world of LLM-based Conversational Agents. Specifically -->
 
 <!-- # Publications -->
 
