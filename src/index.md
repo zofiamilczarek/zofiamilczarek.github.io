@@ -6,7 +6,7 @@ description-meta: PhD student in Dialogue Systems
 og-url: https://zofiamilczarek.github.io/
 location: ISIR
 email: milczarek@isir.upmc.fr
-picture: img/profile.png
+picture: img/zofia.jpeg
 picture-round: false
 side-by-side: true
 pronouns: She/Her
@@ -38,9 +38,9 @@ Some keywords relevant to my research:
 - Social AI
 - Conversational Agents
 
-# Some past work
+<!-- # Some past work
 
-For my Master's Thesis, I worked with Prof Justine Cassell at INRIA Paris. During my research, I focused on 
+For my Master's Thesis, I worked with Prof Justine Cassell at INRIA Paris. During my research, I focused on  -->
 
 <!-- My work focuses on bringing the insights from the vast body of knowledge on interpersonal communication into the world of LLM-based Conversational Agents. Specifically -->
 
