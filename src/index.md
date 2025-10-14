@@ -7,7 +7,7 @@ og-url: https://zofiamilczarek.github.io/
 location: ISIR
 email: milczarek@isir.upmc.fr
 picture: img/zofia.jpeg
-picture-round: false
+picture-round: true
 side-by-side: true
 pronouns: She/Her
 og-picture: https://basicpage.github.io/img/profile.png
