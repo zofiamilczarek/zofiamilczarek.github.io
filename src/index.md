@@ -27,6 +27,8 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
+# About me
+
 I am a PhD student at ISIR, Sorbonne's Robotics and Intelligent Systems lab, under the supervision of Catherine Pelachaud and Florian Pecune. To learn more about the lab, check out the website here : https://www.isir.upmc.fr
 
 My PhD thesis focuses on improving dialogue systems for *Long-term conversarions* (i.e. conversations happening over multiple sessions with one user) applied to the topic of *Motivational Interviews*.
@@ -38,9 +40,10 @@ Some keywords relevant to my research:
 - Social AI
 - Conversational Agents
 
-<!-- # Some past work
+<!-- # Some past work  -->
 
-For my Master's Thesis, I worked with Prof Justine Cassell at INRIA Paris. During my research, I focused on  -->
+<!-- 
+For my Master's Thesis, I worked with Prof Justine Cassell at INRIA Paris. During my research, I focused on -->
 
 <!-- My work focuses on bringing the insights from the vast body of knowledge on interpersonal communication into the world of LLM-based Conversational Agents. Specifically -->
 
