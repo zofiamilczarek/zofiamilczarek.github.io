@@ -27,9 +27,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-# About me
-
-I am a PhD student at ISIR, Sorbonne's Robotics and Intelligent Systems lab, under the supervision of Catherine Pelachaud and Florian Pecune. To learn more about the lab, check out the website here : https://www.isir.upmc.fr
+I am a PhD student at ISIR, Sorbonne's Robotics and Intelligent Systems lab, under the supervision of Catherine Pelachaud and Florian Pecune. To learn more about the lab, check out the website here : [https://www.isir.upmc.fr](https://www.isir.upmc.fr)
 
 My PhD thesis focuses on improving dialogue systems for *Long-term conversarions* (i.e. conversations happening over multiple sessions with one user) applied to the topic of *Motivational Interviews*.
 
